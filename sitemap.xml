@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://u42.dev/</loc>
+    </url>
+    <url>
+        <loc>https://u42.dev/blog/</loc>
+    </url>
+    <url>
+        <loc>https://u42.dev/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://u42.dev/blog/u42/</loc>
+        <lastmod>2024-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://u42.dev/tags/</loc>
+    </url>
+    <url>
+        <loc>https://u42.dev/tags/demo/</loc>
+    </url>
+    <url>
+        <loc>https://u42.dev/tags/test/</loc>
+    </url>
+</urlset>
