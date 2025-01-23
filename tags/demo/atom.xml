@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>user0x42 - Demo</title>
+    <subtitle>Home of a Random Dude</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://u42.dev/tags/demo/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://u42.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-20T00:00:00+00:00</updated>
+    <id>https://u42.dev/tags/demo/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Random</title>
+        <published>2024-12-20T00:00:00+00:00</published>
+        <updated>2024-12-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            user0x42
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://u42.dev/blog/u42/"/>
+        <id>https://u42.dev/blog/u42/</id>
+        
+        <content type="html" xml:base="https://u42.dev/blog/u42/">&lt;h2 id=&quot;randomness&quot;&gt;Randomness&lt;&#x2F;h2&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;u42.dev&#x2F;blog&#x2F;u42&#x2F;randomness.webp&quot; alt=&quot;The Office&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;figure&gt;
+</content>
+        
+    </entry>
+</feed>

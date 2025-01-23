@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>user0x42</title>
+      <link>https://u42.dev</link>
+      <description>Home of a Random Dude</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://u42.dev/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Random</title>
+          <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+          <author>user0x42</author>
+          <link>https://u42.dev/blog/u42/</link>
+          <guid>https://u42.dev/blog/u42/</guid>
+          <description xml:base="https://u42.dev/blog/u42/">&lt;h2 id=&quot;randomness&quot;&gt;Randomness&lt;&#x2F;h2&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;u42.dev&#x2F;blog&#x2F;u42&#x2F;randomness.webp&quot; alt=&quot;The Office&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;figure&gt;
+</description>
+      </item>
+    </channel>
+</rss>
