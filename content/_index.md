@@ -15,6 +15,3 @@ title = "Home"
 ╚──────────────────────────────────────────────────────────────────╝
 ```
 {% end %}
-
-<progress value="30" max="100"></progress>
-<p style="text-align:center;"><mark>Website Status</mark></p>

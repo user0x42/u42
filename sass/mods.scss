@@ -1,6 +1,28 @@
 body {
-    background-image: var(--bg-overlay), url("u42-aaabstract.png");
+    font-family: "U42SansNerd", sans-serif;
+    background-image: var(--bg-overlay), url("bg.png");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+}
+
+@font-face {
+    font-family: "U42SansNerd";
+    src: url("/fonts/U42SansNerdFont-Extended.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+    margin: 2rem 0 1rem;
+    font-weight: bold;
+    line-height: normal;
+    font-family: "U42SansNerd", sans-serif;
+    letter-spacing: 0em;
 }
